@@ -26,7 +26,7 @@ Exploramos os seguintes modelos de machine learning para prever o sucesso de lan
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/jeffev/SpaceX_Machine_Learning_Prediction.git
    ```
 
 2. Abra os notebooks utilizando o Jupyter Notebook ou JupyterLab.
