@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de um README para o seu projeto no GitHub:
-
----
-
 # Projeto de Análise de Dados de Lançamentos da SpaceX
 
 Este é um projeto de análise de dados focado nos lançamentos da SpaceX, explorando diferentes modelos de machine learning para prever o sucesso de missões de foguetes.
